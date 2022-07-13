@@ -13,9 +13,7 @@
 <p align="left">
 
 <a href = "https://twitter.com/AtomEverything"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>
-  
 <a href = "https://twitter.com/AtomEverything"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>
-  
 <a href = "https://twitter.com/AtomEverything"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>
 
 <!--
