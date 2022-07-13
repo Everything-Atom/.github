@@ -13,7 +13,7 @@
 <p align="left">
 
 <a href = "https://twitter.com/AtomEverything"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>
-<a href = "https://twitter.com/AtomEverything"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
+<a href = ""><img src="https://img.icons8.com/nolan/64/github.png"/></a>
 <a href = "https://twitter.com/AtomEverything"><img src="https://img.icons8.com/cute-clipart/64/000000/telegram-app.png"/></a>
 
 <!--
