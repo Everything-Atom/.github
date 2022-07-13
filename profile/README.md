@@ -6,6 +6,14 @@
 
 **Here are some ideas to get you started:**
 
+
+
+
+## Connect with me:
+<p align="left">
+
+<a href = ""><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>
+
 <!--
 
 **Here are some ideas to get you started:**
