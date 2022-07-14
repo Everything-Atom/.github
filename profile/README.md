@@ -12,7 +12,8 @@
  The intellectual and practical activity encompassing the systematic study of the structure and behaviour of the physical and natural world through observation and experiment is science. To put in a nutshell, finding the reason of any physical or chemical or biological activities and make experiments to ensure the reason may known science.
 We need science to overcome  and be aware of any pandemic situation lke corona or disasters like tsunami. And also in the modern world, many more inventions are invented with the help of science.
 
-We are an organisation which helps you to develop the knowledge of science. You can follow us on Telegram, Github, Twitter...  //Future social media come here//  You can make quizzes related to science and able to make discussions and with many ways you can increase your knowledge.
+We are an organisation which helps you to develop the knowledge of science. You can follow us on [Telegram], [Github], [Twitter]...  
+You can make quizzes related to science and able to make discussions and with many ways you can increase your knowledge.
 
 🌈 Contribution guidelines - how can the community get involved?
 
