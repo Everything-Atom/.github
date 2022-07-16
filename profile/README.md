@@ -7,7 +7,7 @@
 
 
 **Here are some ideas to get you started:**
-
+ 
 🙋‍♀️ A short introduction - what is your organization all about?
  The intellectual and practical activity encompassing the systematic study of the structure and behaviour of the physical and natural world through observation and experiment is science. To put in a nutshell, finding the reason of any physical or chemical or biological activities and make experiments to ensure the reason may known science.
 We need science to overcome  and be aware of any pandemic situation lke corona or disasters like tsunami. And also in the modern world, many more inventions are invented with the help of science.
