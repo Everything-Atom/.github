@@ -20,7 +20,7 @@ You can make quizzes related to science and able to make discussions and with ma
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 [NASA](https://www.nasa.gov/https://www.nasa.gov/), [ESA](https://www.esa.int/), [ISRO](https://www.isro.gov.in/)
 
-🍿 Fun facts - what does your team eat for breakfast? 
+🍿 Fun facts - what does your team eat for breakfast? Atom ⚛️
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
