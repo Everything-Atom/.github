@@ -14,7 +14,7 @@ We need science to overcome  and be aware of any pandemic situation lke corona o
 We are an organisation which helps you to develop the knowledge of science. **_You can follow us_** on [***Telegram***](https://t.me/Everything_Atom), [***Github***](https://github.com/Everything-Atom), [***Twitter***](https://twitter.com/AtomEverything)...  
 You can make quizzes related to science and able to make discussions and with many ways you can increase your knowledge.
 
-🌈 Contribution guidelines - how can the community get involved?
+<!-- 🌈 Contribution guidelines - how can the community get involved? 
 
 👩‍💻 **Useful resources** - where can the community find your docs? Is there anything else the community should know?
 [**NASA**](https://www.nasa.gov/https://www.nasa.gov/), [**ESA**](https://www.esa.int/), [**ISRO**](https://www.isro.gov.in/)
